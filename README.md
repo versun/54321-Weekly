@@ -4,3 +4,4 @@
 ## 2022
 ### 12月
 - [第 1 期](https://github.com/versun/54321-Weekly/blob/main/docs/1.md)
+- [第 2 期](https://github.com/versun/54321-Weekly/blob/main/docs/2.md)
