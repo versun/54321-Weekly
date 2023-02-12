@@ -1,6 +1,6 @@
 # 54321 周刊
 分享我的所见所闻所得，每周六发布\
-[✉️邮件订阅(Newsletter)](https://tinyletter.com/Versun)
+[✉️邮件订阅(Newsletter)](https://tinyletter.com/54321Weekly)
 
 ## 2023
 ### 2月
