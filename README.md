@@ -1,9 +1,12 @@
 # 54321 周刊
 分享我的所见所闻所得，每周六发布\
+如果您喜欢该周刊，并想支持我，可以请我喝一杯咖啡哟: [爱发电](https://afdian.net/a/versun)\
+
 [✉️邮件订阅(Newsletter)](https://tinyletter.com/54321Weekly)
 
 ## 2023
 ### 2月
+- [第 9 期](https://github.com/versun/54321-Weekly/blob/main/docs/9.md)
 - [第 8 期](https://github.com/versun/54321-Weekly/blob/main/docs/8.md)
 - [第 7 期](https://github.com/versun/54321-Weekly/blob/main/docs/7.md)
 ### 1月
