@@ -2,7 +2,7 @@
 分享我的所见所闻所得，每周六发布\
 如果您喜欢该周刊，并想支持我，可以请我喝一杯咖啡哟: [爱发电](https://afdian.net/a/versun)\
 
-[✉️邮件订阅(Newsletter)](https://54321.substack.com)
+[邮件订阅(Newsletter)](https://54321.substack.com), [RSS](https://54321.substack.com/feed)
 
 ## 2023
 ### 2月
