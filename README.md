@@ -1,7 +1,6 @@
 # 54321 周刊
 分享我的所见所闻所得，每周六发布\
-[Github](https://github.com/versun/54321-Weekly), [Blog](https://notes.versun.me/notes/54321-weekly), [Twitter](https://twitter.com/VersunPan), [RSS](https://54321.substack.com/feed), [Newsletter](https://54321.substack.com/)\
-如果您喜欢该周刊，并想支持我，可以请我喝一杯咖啡哟: [爱发电](https://afdian.net/a/versun)
+[Github](https://github.com/versun/54321-Weekly), [Blog](https://notes.versun.me/notes/54321-weekly), [Twitter](https://twitter.com/VersunPan), [RSS](https://54321.substack.com/feed), [Newsletter](https://54321.substack.com/), [爱发电](https://afdian.net/a/versun)
 
 ## 2023
 ### 2月
