@@ -4,6 +4,7 @@
 
 ## 2023
 ### 2月
+- [第 10 期](https://github.com/versun/54321-Weekly/blob/main/docs/10.md)
 - [第 9 期](https://github.com/versun/54321-Weekly/blob/main/docs/9.md)
 - [第 8 期](https://github.com/versun/54321-Weekly/blob/main/docs/8.md)
 - [第 7 期](https://github.com/versun/54321-Weekly/blob/main/docs/7.md)
