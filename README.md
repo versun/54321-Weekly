@@ -3,6 +3,9 @@
 [Github](https://github.com/versun/54321-Weekly), [Blog](https://notes.versun.me/notes/54321-weekly), [Twitter](https://twitter.com/VersunPan), [RSS](https://54321.versun.me/feed), [Newsletter](https://54321.versun.me/), [爱发电](https://afdian.net/a/versun)
 
 ## 2023
+### 3月
+- [第 12 期](https://github.com/versun/54321-Weekly/blob/main/docs/12.md)
+- [第 11 期](https://github.com/versun/54321-Weekly/blob/main/docs/11.md)
 ### 2月
 - [第 10 期](https://github.com/versun/54321-Weekly/blob/main/docs/10.md)
 - [第 9 期](https://github.com/versun/54321-Weekly/blob/main/docs/9.md)
