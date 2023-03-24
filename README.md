@@ -1,5 +1,6 @@
 # 54321 周刊
-分享我的所见所闻所得，每周六发布\
+分享每周的科技趣闻，周六发布\
+如需投稿(资源/工具/文章), 请[提交 issue](https://github.com/versun/54321-Weekly/issues)\
 [Github](https://github.com/versun/54321-Weekly), [Blog](https://notes.versun.me/notes/54321-weekly), [Twitter](https://twitter.com/VersunPan), [RSS](https://54321.versun.me/feed), [Newsletter](https://54321.versun.me/), [爱发电](https://afdian.net/a/versun)
 
 ## 2023
