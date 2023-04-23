@@ -24,6 +24,6 @@
 ## 赞助者们
 非常感谢以下读者的支持。如有余力，请考虑成为[赞助者](https://afdian.net/a/versun)
 
-![](https://github.com/versun/54321-sponsors/blob/main/sponsorkit/sponsors.svg)
+![](https://github.com/versun/54321-Weekly/blob/main/scripts/sponsorkit/sponsorkit/sponsors.svg)
 
 > 说明： 通过[爱发电](https://afdian.net/a/versun)或[Patreon](https://patreon.com/VersunPan)赞助的同学，你的头像将会隔天出现在这里噢。
