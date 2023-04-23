@@ -24,7 +24,7 @@ jobs:
       - run: cd scripts/sponsorkit && npm i
 
       - name: Update sponsors
-        run: npm run build
+        run: cd scripts/sponsorkit && npm run build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: versun
