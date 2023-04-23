@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: lts/*
 
-      - run: npx pnpm i
+      - run: cd scripts/sponsorkit && npx pnpm i
 
       - name: Update sponsors
         run: npm run build
