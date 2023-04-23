@@ -1,0 +1,41 @@
+name: get_sponsors
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 16 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/sponsorkit/**'
+
+jobs:
+  update-sponsors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set node
+        uses: actions/setup-node@v3
+        with:
+          node-version: lts/*
+
+      - run: npx pnpm i
+
+      - name: Update sponsors
+        run: npm run build
+        env:
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: versun
+          SPONSORKIT_AFDIAN_USER_ID: 2cd194b2ae9f11edabcb5254001e7c00
+          SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
+          SPONSORKIT_PATREON_TOKEN: ${{ secrets.SPONSORKIT_PATREON_TOKEN }}
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: "chore: update sponsors.svg"
+          add: "./sponsorkit/sponsors.*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
