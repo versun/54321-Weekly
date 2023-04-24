@@ -1,15 +1,13 @@
 name: get_sponsors
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '30 5,17 * * *'
   push:
     branches:
       - main
     paths:
       - 'scripts/sponsorkit/**'
-
 jobs:
   update-sponsors:
     runs-on: ubuntu-latest
