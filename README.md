@@ -1,18 +1,21 @@
 # 54321 周刊
-分享每周的科技趣闻，周六发布\
-感谢这些[读者](#赞助者们)的支持，以让我有动力每周花费约9小时来筛选和撰写\
-如果您喜欢它, 可以通过以下方式支持我:
-- 在[爱发电](https://afdian.net/a/versun) 上买杯咖啡☕
-- [分享](https://54321.versun.me)给您的朋友🔥
-- 在[Github](https://github.com/versun/54321-Weekly)上加个星⭐
-
-该周刊免费阅读, 您可通过[邮件订阅](https://54321.versun.me/)或[RSS](https://54321.versun.me/feed)获取更新\
+💡主要分享每周的科技趣闻，每个周六为您奉上！\
+感谢这些亲爱的[读者](#%E8%B5%9E%E5%8A%A9%E8%80%85%E4%BB%AC)们的支持，让我有动力每周花费约十几小时来筛选和撰写✍️ \
+😊如果您喜欢它, 可以通过以下方式来支持我哦🎉: 
+1. 来[爱发电](https://afdian.net/a/versun)上给我买杯咖啡吧!☕ 
+2. 把这个周刊[分享](https://54321.versun.me)给您的朋友们，一起来关注科技资讯！🔥 
+3. 在[Github](https://github.com/versun/54321-Weekly)上给我加个星星⭐，让我们共同成长 
+ 
+该周刊免费阅读哦！您可以通过[邮件订阅](https://54321.versun.me/)或[RSS](https://54321.versun.me/feed)获取最新的精彩内容
+ 
+如果您有好的资讯，欢迎[提交 issue](https://github.com/versun/54321-Weekly/issues)，非常期待您的参与！📝 \
 您还可以关注我的[推特](https://twitter.com/VersunPan) , [Telegram频道](https://t.me/+0hAhZfrPJGo1YmI9), [博客](https://notes.versun.me)\
-如需投稿(资源/工具/文章), 请[提交 issue](https://github.com/versun/54321-Weekly/issues)
+感谢大家的支持和鼓励，让我们一起追求更多有趣的科技内容！❤️💪
+
 ## 2023年
 | 月份 | 期数 | | | | |
 | --- | --- | --- | --- | --- | --- |
-| 5月 | [第 20 期](https://github.com/versun/54321-Weekly/blob/main/docs/20.md) | [第 21 期](https://github.com/versun/54321-Weekly/blob/main/docs/21.md) | [第 22 期](https://github.com/versun/54321-Weekly/blob/main/docs/22.md) |
+| 5月 | [第 20 期](https://github.com/versun/54321-Weekly/blob/main/docs/20.md) | [第 21 期](https://github.com/versun/54321-Weekly/blob/main/docs/21.md) | [第 22 期](https://github.com/versun/54321-Weekly/blob/main/docs/22.md) | [第 23 期](https://github.com/versun/54321-Weekly/blob/main/docs/23.md) |
 | 4月 | [第 19 期](https://github.com/versun/54321-Weekly/blob/main/docs/19.md) | [第 18 期](https://github.com/versun/54321-Weekly/blob/main/docs/18.md)  |  [第 17 期](https://github.com/versun/54321-Weekly/blob/main/docs/17.md)  |  [第 16 期](https://github.com/versun/54321-Weekly/blob/main/docs/16.md)  |  [第 15 期](https://github.com/versun/54321-Weekly/blob/main/docs/15.md) |
 | 3月 | [第 14 期](https://github.com/versun/54321-Weekly/blob/main/docs/14.md) | [第 13 期](https://github.com/versun/54321-Weekly/blob/main/docs/13.md)  |  [第 12 期](https://github.com/versun/54321-Weekly/blob/main/docs/12.md) | [第 11 期](https://github.com/versun/54321-Weekly/blob/main/docs/11.md) |
 | 2月 | [第 10 期](https://github.com/versun/54321-Weekly/blob/main/docs/10.md) | [第 9 期](https://github.com/versun/54321-Weekly/blob/main/docs/9.md)  |  [第 8 期](https://github.com/versun/54321-Weekly/blob/main/docs/8.md) | [第 7 期](https://github.com/versun/54321-Weekly/blob/main/docs/7.md) |
