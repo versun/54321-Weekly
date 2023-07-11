@@ -1,7 +1,8 @@
 ![54321 Weekly](https://github.com/versun/54321-Weekly/blob/main/img/54321.png?raw=true)
 
 
-每周六分享科技趣闻 | [邮件订阅](https://newsletter.versun.me/subscription/form) | [RSS](https://54321.versun.me/feed) | [归档](https://github.com/versun/54321-Weekly/releases)
+每周六分享科技趣闻 | [邮件订阅](https://newsletter.versun.me/subscription/form) | [RSS](https://54321.versun.me/feed) | [归档](https://github.com/versun/54321-Weekly/releases) | [Github](https://github.com/versun/54321-Weekly)
+<div id='form'></div>
 
 感谢这些亲爱的[读者](#%E8%B5%9E%E5%8A%A9%E8%80%85%E4%BB%AC)们的支持，让我有动力每周花费约十几小时来筛选和撰写✍️ \
 😊如果您喜欢它, 可以通过以下方式来支持我哦🎉: 
