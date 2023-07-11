@@ -1,0 +1,25 @@
+name: Create Release Note
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  create-release-note:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Create release note
+        run: |
+          echo "# ${{ github.event.release.name }}" > docs/${{ github.event.release.tag_name }}.md
+          echo "${{ github.event.release.body }}" >> docs/${{ github.event.release.tag_name }}.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git checkout -b release
+          git add docs/${{ github.event.release.tag_name }}.md
+          git commit -m "Release ${{ github.event.release.tag_name }}"
+          git push origin release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
