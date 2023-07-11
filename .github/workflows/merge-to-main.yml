@@ -1,0 +1,24 @@
+name: Merge Release Note to Main
+on:
+  push:
+    branches: [release]
+jobs:
+  merge-to-main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Merge to main
+        run: |
+          git fetch origin
+          git checkout main
+          git merge release
+          git push origin main
+      - name: Push changes to main branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
