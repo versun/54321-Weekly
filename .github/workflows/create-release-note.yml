@@ -1,5 +1,6 @@
 name: Create Release Note
 on:
+  workflow_dispatch:
   release:
     types: [published]
 jobs:
