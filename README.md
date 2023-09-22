@@ -17,7 +17,7 @@
 ## 2023年
 | 月份 | 期数 | | | | |
 | --- | --- | --- | --- | --- | --- |
-| 9月 | [第 37 期](https://github.com/versun/54321-Weekly/blob/main/docs/37.md) | [第 38 期](https://github.com/versun/54321-Weekly/blob/main/docs/38.md) | [第 39 期](https://github.com/versun/54321-Weekly/blob/main/docs/39.md) |
+| 9月 | [第 37 期](https://github.com/versun/54321-Weekly/blob/main/docs/37.md) | [第 38 期](https://github.com/versun/54321-Weekly/blob/main/docs/38.md) | [第 39 期](https://github.com/versun/54321-Weekly/blob/main/docs/39.md) | [第 40 期](https://github.com/versun/54321-Weekly/blob/main/docs/40.md) |
 | 8月 | [第 33 期](https://github.com/versun/54321-Weekly/blob/main/docs/33.md) | [第 34 期](https://github.com/versun/54321-Weekly/blob/main/docs/34.md) | [第 35 期](https://github.com/versun/54321-Weekly/blob/main/docs/35.md) | [第 36 期](https://github.com/versun/54321-Weekly/blob/main/docs/36.md) |
 | 7月 | [第 28 期](https://github.com/versun/54321-Weekly/blob/main/docs/28.md) | [第 29 期](https://github.com/versun/54321-Weekly/blob/main/docs/29.md) | [第 30 期](https://github.com/versun/54321-Weekly/blob/main/docs/30.md) | [第 31 期](https://github.com/versun/54321-Weekly/blob/main/docs/31.md) | [第 32 期](https://github.com/versun/54321-Weekly/blob/main/docs/32.md) |
 | 6月 | [第 24 期](https://github.com/versun/54321-Weekly/blob/main/docs/24.md) | [第 25 期](https://github.com/versun/54321-Weekly/blob/main/docs/25.md) | [第 26 期](https://github.com/versun/54321-Weekly/blob/main/docs/26.md) | [第 27 期](https://github.com/versun/54321-Weekly/blob/main/docs/27.md) |
