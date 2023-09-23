@@ -48,7 +48,7 @@
   </a>
 </p>
 
-> 说明： 通过[爱发电](https://afdian.net/a/versun)或[Patreon](https://patreon.com/VersunPan)赞助的同学，你的头像将会隔天出现在这里噢。
+> 说明： 通过[爱发电](https://afdian.net/a/versun)赞助的同学，你的头像将会隔天出现在这里噢。
 
 ## Star History
 
