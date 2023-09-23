@@ -2,7 +2,14 @@
 
 
 每周六分享科技趣闻 | [邮件订阅](https://newsletter.versun.me/subscription/form) | [RSS](https://54321.versun.me/feed) | [归档](https://github.com/versun/54321-Weekly/releases) | [Github](https://github.com/versun/54321-Weekly)
-<div id='form'></div>
+<div id='form'><form method="post" action="https://newsletter.versun.me/subscription/form" class="listmonk-form">
+        <div>
+            <input type="hidden" name="nonce" />
+            <input type="email" name="email" required placeholder="电子邮件" />
+            <input id="61939" type="checkbox" name="l" checked value="61939eed-8b6f-40b6-abf5-d35e563a8a06" hidden />
+            <input type="submit" value="订阅" />
+        </div>
+    </form></div>
 
 感谢这些亲爱的[读者](#%E8%B5%9E%E5%8A%A9%E8%80%85%E4%BB%AC)们的支持，让我有动力每周花费约十几小时来筛选和撰写✍️ \
 😊如果您喜欢它, 可以通过以下方式来支持我哦🎉: 
