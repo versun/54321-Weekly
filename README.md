@@ -5,7 +5,7 @@
 <div id='form'><form method="post" action="https://newsletter.versun.me/subscription/form" class="listmonk-form">
         <div>
             <input type="hidden" name="nonce" />
-            <input type="email" name="email" required placeholder="电子邮件" />
+            <input type="email" name="email" required placeholder="Email address" />
             <input id="61939" type="checkbox" name="l" checked value="61939eed-8b6f-40b6-abf5-d35e563a8a06" hidden />
             <input type="submit" value="订阅" />
         </div>
