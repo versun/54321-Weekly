@@ -1,4 +1,5 @@
 /subscription https://newsletter.versun.me/subscription/form 301
+/feed https://github.com/versun/54321-Weekly/releases.atom 301
 /1 /#/docs/1 301
 /2 /#/docs/2 301
 /3 /#/docs/3 301
