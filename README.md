@@ -25,7 +25,7 @@
 ## 2023年
 | 月份 | 期数 | | | | |
 | --- | --- | --- | --- | --- | --- |
-| 11月 | [第 46 期](https://54321.versun.me/46) | [第 47 期](https://54321.versun.me/47) | [第 48 期](https://54321.versun.me/48) | 
+| 11月 | [第 46 期](https://54321.versun.me/46) | [第 47 期](https://54321.versun.me/47) | [第 48 期](https://54321.versun.me/48) | [第 49 期](https://54321.versun.me/49) |
 | 10月 | [第 42 期](https://54321.versun.me/42) | [第 43 期](https://54321.versun.me/43) | [第 44 期](https://54321.versun.me/44) | [第 45 期](https://54321.versun.me/45) |
 | 9月 | [第 37 期](https://54321.versun.me/37) | [第 38 期](https://54321.versun.me/38) | [第 39 期](https://54321.versun.me/39) | [第 40 期](https://54321.versun.me/40) |  [第 41 期](https://54321.versun.me/41) |
 | 8月 | [第 33 期](https://54321.versun.me/33) | [第 34 期](https://54321.versun.me/34) | [第 35 期](https://54321.versun.me/35) | [第 36 期](https://54321.versun.me/36) |
