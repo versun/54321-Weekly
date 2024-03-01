@@ -27,7 +27,11 @@ jobs:
           SPONSORKIT_GITHUB_LOGIN: versun
           SPONSORKIT_AFDIAN_USER_ID: 2cd194b2ae9f11edabcb5254001e7c00
           SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
-          SPONSORKIT_PATREON_TOKEN: ${{ secrets.SPONSORKIT_PATREON_TOKEN }}
+          SPONSORKIT_OPENCOLLECTIVE_KEY: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_KEY }}
+          SPONSORKIT_OPENCOLLECTIVE_SLUG: rsstranslator
+          SPONSORKIT_OPENCOLLECTIVE_TYPE: collective
+          
+
 
       - name: Commit
         uses: EndBug/add-and-commit@v4
