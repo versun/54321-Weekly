@@ -1,7 +1,7 @@
 ![54321 Weekly](https://github.com/versun/54321-Weekly/blob/main/img/54321.png?raw=true)
 
 
-每周六分享科技趣闻 | [邮件订阅](https://newsletter.versun.me/subscription/form) | [RSS](https://54321.versun.me/feed) | [归档](https://github.com/versun/54321-Weekly/releases) | [Github](https://github.com/versun/54321-Weekly)
+每周六分享科技趣闻 | [邮件订阅](https://54321.versun.me) | [RSS](https://54321.versun.me/feed) | [归档](https://github.com/versun/54321-Weekly/releases) | [Github](https://github.com/versun/54321-Weekly)
 <div id='form'><form method="post" action="https://newsletter.versun.me/subscription/form" class="listmonk-form">
         <div>
             <input type="hidden" name="nonce" />
