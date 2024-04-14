@@ -3,7 +3,7 @@
 每周六分享科技趣闻  
 
 本仓库为存档之用，定期备份周刊内容  
-最新内容，请查看主页：[54321.versun.me](https://54321.versun.me)
+最新内容，请查看主页：[54321.versun.me](https://54321.versun.me)   
 也可[邮件订阅](https://54321.versun.me) 或 [RSS](https://54321.versun.me/feed)
 
 😊如果您喜欢它, 可以通过以下方式来支持我哦🎉: 
