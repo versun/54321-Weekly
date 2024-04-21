@@ -1,4 +1,4 @@
-![54321 Weekly](https://github.com/versun/54321-Weekly/blob/main/img/54321.png?raw=true)
+![54321 Weekly](https://github.com/versun/54321-Weekly/blob/ee321b365a9a085d9d03fa803837b6c4f5b83b37/uploads/2024/54321.png)
 
 每周六分享科技趣闻  
 
