@@ -20,12 +20,12 @@
 非常感谢以下读者的支持。如有余力，请考虑成为[赞助者](https://afdian.net/a/versun)
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/versun/54321-Weekly/main/scripts/sponsorkit/sponsorkit/sponsors.svg">
-    <img src='https://raw.githubusercontent.com/versun/54321-Weekly/main/scripts/sponsorkit/sponsorkit/sponsors.svg'/>
+  <a href="https://raw.githubusercontent.com/versun/sponsors/main/sponsors.svg">
+    <img src='https://raw.githubusercontent.com/versun/sponsors/main/sponsors.svg'/>
   </a>
 </p>
 
-> 说明： 通过[爱发电](https://afdian.net/a/versun)赞助的同学，你的头像将会隔天出现在这里噢。
+> 说明： 赞助头像将会隔天出现在这里噢。
 
 ## Star History
 
